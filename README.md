@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍅 Moodoro
+# 😑 Moodoro
 
 ### A Modern Pomodoro Timer for Your Desktop
 
